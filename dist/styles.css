@@ -1,0 +1,12 @@
+/* styles.css */
+body {
+	background-color: lightblue;
+	}
+
+	button {
+	color: white;
+	background-color: blue;
+	padding: 10px 20px;
+	border: none;
+	cursor: pointer;
+	}
